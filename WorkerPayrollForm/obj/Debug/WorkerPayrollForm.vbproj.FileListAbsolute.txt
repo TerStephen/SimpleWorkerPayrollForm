@@ -1,0 +1,33 @@
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\bin\Debug\WorkerPayrollForm.exe.config
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.vbprojResolveAssemblyReference.cache
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\obj\Debug\MainWindow.g.vb
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\obj\Debug\Application.g.vb
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\obj\Debug\WorkerPayrollForm_MarkupCompile.cache
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\obj\Debug\WorkerPayrollForm_MarkupCompile.lref
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.xml
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\bin\Debug\WorkerPayrollForm.exe
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\bin\Debug\WorkerPayrollForm.pdb
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\bin\Debug\WorkerPayrollForm.xml
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\obj\Debug\MainWindow.baml
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.g.resources
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.Resources.resources
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.vbproj.GenerateResource.Cache
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.exe
+C:\Users\Mole Rat\Desktop\scolar\NETD\Final Lab\WorkerPayrollForm\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.pdb
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\bin\Debug\WorkerPayrollForm.exe.config
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\bin\Debug\WorkerPayrollForm.exe
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\bin\Debug\WorkerPayrollForm.pdb
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\bin\Debug\WorkerPayrollForm.xml
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.vbproj.AssemblyReference.cache
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\MainWindow.g.vb
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\Application.g.vb
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\WorkerPayrollForm_MarkupCompile.cache
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\WorkerPayrollForm_MarkupCompile.lref
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\MainWindow.baml
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.g.resources
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.Resources.resources
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.vbproj.GenerateResource.cache
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.vbproj.CoreCompileInputs.cache
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.exe
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.xml
+C:\Users\raide\Desktop\docs\FUCK\L1\WorkerPayrollForm\obj\Debug\WorkerPayrollForm.pdb
